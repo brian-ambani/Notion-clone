@@ -8,6 +8,20 @@
       "when": 1703206123813,
       "tag": "0000_slim_shatterstar",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1703234003260,
+      "tag": "0001_equal_stone_men",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1703235399310,
+      "tag": "0002_silly_joseph",
+      "breakpoints": true
     }
   ]
 }
